@@ -1,6 +1,6 @@
 clear all
 
-cd "C:\Users\Benevita1\Documents\Acadêmico\1 - Mestrado\Microeconometria Aplicada\Artigo\0 - Base final"
+cd "C:\Users\Roberto_jr\Documents\Acadêmico\1 - Mestrado\Microeconometria Aplicada\Artigo\0 - Base final"
 
 
 **________________					RESUMO						_______________*
